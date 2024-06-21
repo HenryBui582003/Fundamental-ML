@@ -7,7 +7,7 @@ This repository contains the code and data for a mini-project on facial expressi
 
     |No.| Student Name    | Student ID |
     | --------| -------- | ------- |
-    |1|||Bùi Gia Huy||21110305
+    |1|Bùi Gia Huy|21110305|
     |2|||
     |3|||
     |4|||
